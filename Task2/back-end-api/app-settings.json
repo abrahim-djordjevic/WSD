@@ -1,0 +1,6 @@
+{
+    "port": "3500",
+    "db": "../database/database.db",
+    "secret": "BETTING_APP_SECRET",
+    "origin":"http://localhost:3001"
+}
